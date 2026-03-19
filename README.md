@@ -96,6 +96,7 @@ speed up the process.
 - Thomas Hunter II (author of Distributed Systems with Node.js)
 - Anas Elgarhy (Software Engineer)
 - Kęstutis Dambrauskas (Front-end developer)
+- Jared White (Web Developer, Open Source Maintainer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
