@@ -109,6 +109,7 @@ speed up the process.
 - Dimitri Do Bairro (@Tictactrip founder, depending on Node.js since 2016)
 - Stephen Smit (Software Engineering Manager)
 - Jakub Żywiec (Software Developer)
+- Haris Pasha Dipto (Software Engineer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
